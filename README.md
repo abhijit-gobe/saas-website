@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <br />
     <a href="#">
@@ -15,13 +14,21 @@
 
 <h3 align="center">Xora - Modern UI/UX SaaS Website</h3>
 
-   
 </div>
+
+---
 
 ## 🔥 Introduction
 
-**Xora** is a sleek, modern UI/UX SaaS website designed with cutting-edge web technologies like React.js and Tailwind CSS. Its design is polished, fast, and optimized for both performance and aesthetics. 
+**Xora** is a sleek, modern UI/UX SaaS website designed with cutting-edge web technologies like React.js and Tailwind CSS. Its design is polished, fast, and optimized for both performance and aesthetics.
 
+---
+
+## 🌐 Live Website
+
+You can view the live version of the Xora project here:
+
+🔗 [Live Website](#) <!-- Replace # with your live website URL -->
 
 ---
 
@@ -50,7 +57,7 @@ This project is built using:
 
 Here’s how you can get Xora running on your local machine:
 
-**Prerequisites**:
+**Prerequisites**:  
 Make sure you have installed:
 
 - [Git](https://git-scm.com/)
